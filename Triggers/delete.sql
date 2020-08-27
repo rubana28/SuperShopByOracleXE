@@ -1,0 +1,1 @@
+DELETE FROM customer WHERE id=15 AND branch_id=3;

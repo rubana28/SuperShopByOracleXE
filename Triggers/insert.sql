@@ -1,0 +1,1 @@
+INSERT INTO customer VALUES(16,'Benedict', 01554547937, 'abc@gmail.com', 2);
